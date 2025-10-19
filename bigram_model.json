@@ -1,0 +1,120 @@
+{
+  "<s>": {
+    "I": 6,
+    "Coding": 1
+  },
+  "I": {
+    "love": 4,
+    "like": 1,
+    "enjoy": 1
+  },
+  "love": {
+    "to": 4
+  },
+  "to": {
+    "code": 1,
+    "travel": 1,
+    "code,": 1,
+    "build": 1,
+    "write": 1
+  },
+  "code": {
+    "and": 2
+  },
+  "and": {
+    "read": 1,
+    "explore": 1,
+    "read.": 1,
+    "reading": 1,
+    "solving": 1,
+    "learn": 1
+  },
+  "read": {
+    "books.": 1
+  },
+  "books.": {
+    "</s>": 1
+  },
+  "travel": {
+    "and": 1
+  },
+  "explore": {
+    "new": 1
+  },
+  "new": {
+    "places.": 1,
+    "things": 1
+  },
+  "places.": {
+    "</s>": 1
+  },
+  "like": {
+    "to": 1
+  },
+  "code,": {
+    "travel,": 1
+  },
+  "travel,": {
+    "and": 1
+  },
+  "read.": {
+    "</s>": 1
+  },
+  "Coding": {
+    "and": 1
+  },
+  "reading": {
+    "make": 1
+  },
+  "make": {
+    "me": 1
+  },
+  "me": {
+    "happy.": 1
+  },
+  "happy.": {
+    "</s>": 1
+  },
+  "build": {
+    "projects": 1
+  },
+  "projects": {
+    "that": 1
+  },
+  "that": {
+    "help": 1
+  },
+  "help": {
+    "people.": 1
+  },
+  "people.": {
+    "</s>": 1
+  },
+  "enjoy": {
+    "learning": 1
+  },
+  "learning": {
+    "new": 1
+  },
+  "things": {
+    "and": 1
+  },
+  "solving": {
+    "problems.": 1
+  },
+  "problems.": {
+    "</s>": 1
+  },
+  "write": {
+    "code": 1
+  },
+  "learn": {
+    "from": 1
+  },
+  "from": {
+    "examples.": 1
+  },
+  "examples.": {
+    "</s>": 1
+  }
+}
